@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\bin\Debug\netcoreapp3.1\02. RecursiveDrawing.exe
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\bin\Debug\netcoreapp3.1\02. RecursiveDrawing.deps.json
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\bin\Debug\netcoreapp3.1\02. RecursiveDrawing.runtimeconfig.json
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\bin\Debug\netcoreapp3.1\02. RecursiveDrawing.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\bin\Debug\netcoreapp3.1\02. RecursiveDrawing.dll
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\bin\Debug\netcoreapp3.1\02. RecursiveDrawing.pdb
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.dll
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.pdb
+C:\Users\User\source\repos\Recursion and Backtracking\02. RecursiveDrawing\obj\Debug\netcoreapp3.1\02. RecursiveDrawing.genruntimeconfig.cache

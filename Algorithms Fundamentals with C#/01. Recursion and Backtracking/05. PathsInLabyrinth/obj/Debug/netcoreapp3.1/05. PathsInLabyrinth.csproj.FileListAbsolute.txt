@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\bin\Debug\netcoreapp3.1\05. PathsInLabyrinth.exe
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\bin\Debug\netcoreapp3.1\05. PathsInLabyrinth.deps.json
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\bin\Debug\netcoreapp3.1\05. PathsInLabyrinth.runtimeconfig.json
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\bin\Debug\netcoreapp3.1\05. PathsInLabyrinth.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\bin\Debug\netcoreapp3.1\05. PathsInLabyrinth.dll
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\bin\Debug\netcoreapp3.1\05. PathsInLabyrinth.pdb
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.dll
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.pdb
+C:\Users\User\source\repos\Recursion and Backtracking\05. PathsInLabyrinth\obj\Debug\netcoreapp3.1\05. PathsInLabyrinth.genruntimeconfig.cache
