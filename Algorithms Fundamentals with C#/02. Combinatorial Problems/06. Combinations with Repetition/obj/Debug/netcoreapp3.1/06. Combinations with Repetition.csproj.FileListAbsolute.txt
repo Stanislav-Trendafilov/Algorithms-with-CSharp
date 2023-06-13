@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\bin\Debug\netcoreapp3.1\06. Combinations with Repetition.exe
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\bin\Debug\netcoreapp3.1\06. Combinations with Repetition.deps.json
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\bin\Debug\netcoreapp3.1\06. Combinations with Repetition.runtimeconfig.json
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\bin\Debug\netcoreapp3.1\06. Combinations with Repetition.runtimeconfig.dev.json
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\bin\Debug\netcoreapp3.1\06. Combinations with Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\bin\Debug\netcoreapp3.1\06. Combinations with Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.AssemblyInfo.cs
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\06. Combinations with Repetition\obj\Debug\netcoreapp3.1\06. Combinations with Repetition.genruntimeconfig.cache

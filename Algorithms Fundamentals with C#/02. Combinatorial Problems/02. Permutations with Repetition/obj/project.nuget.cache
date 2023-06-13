@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AqwzVzTKgHY6GywtPR6HVFM8z1SJOR17Uhn01w5i96F3n5ktRucBwg4SnFoBF0xx/j+Wti0HbCuzLCI7fLAv0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Combinatorial Problems\\02. Permutations with Repetition\\02. Permutations with Repetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\bin\Debug\netcoreapp3.1\04. Variations with Repetition.exe
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\bin\Debug\netcoreapp3.1\04. Variations with Repetition.deps.json
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\bin\Debug\netcoreapp3.1\04. Variations with Repetition.runtimeconfig.json
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\bin\Debug\netcoreapp3.1\04. Variations with Repetition.runtimeconfig.dev.json
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\bin\Debug\netcoreapp3.1\04. Variations with Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\bin\Debug\netcoreapp3.1\04. Variations with Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.AssemblyInfo.cs
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\04. Variations with Repetition\obj\Debug\netcoreapp3.1\04. Variations with Repetition.genruntimeconfig.cache

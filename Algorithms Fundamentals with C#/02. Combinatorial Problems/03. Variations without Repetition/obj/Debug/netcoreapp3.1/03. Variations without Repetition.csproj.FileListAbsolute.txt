@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\bin\Debug\netcoreapp3.1\03. Variations without Repetition.exe
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\bin\Debug\netcoreapp3.1\03. Variations without Repetition.deps.json
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\bin\Debug\netcoreapp3.1\03. Variations without Repetition.runtimeconfig.json
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\bin\Debug\netcoreapp3.1\03. Variations without Repetition.runtimeconfig.dev.json
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\bin\Debug\netcoreapp3.1\03. Variations without Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\bin\Debug\netcoreapp3.1\03. Variations without Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.AssemblyInfo.cs
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\03. Variations without Repetition\obj\Debug\netcoreapp3.1\03. Variations without Repetition.genruntimeconfig.cache

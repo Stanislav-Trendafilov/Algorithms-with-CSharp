@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\bin\Debug\netcoreapp3.1\07. N Choose K Count.exe
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\bin\Debug\netcoreapp3.1\07. N Choose K Count.deps.json
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\bin\Debug\netcoreapp3.1\07. N Choose K Count.runtimeconfig.json
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\bin\Debug\netcoreapp3.1\07. N Choose K Count.runtimeconfig.dev.json
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\bin\Debug\netcoreapp3.1\07. N Choose K Count.dll
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\bin\Debug\netcoreapp3.1\07. N Choose K Count.pdb
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.AssemblyInfo.cs
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.dll
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.pdb
+C:\Users\User\source\repos\Combinatorial Problems\07. N Choose K Count\obj\Debug\netcoreapp3.1\07. N Choose K Count.genruntimeconfig.cache

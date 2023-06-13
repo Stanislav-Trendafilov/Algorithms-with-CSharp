@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\bin\Debug\netcoreapp3.1\01. Permutations without Repetition.exe
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\bin\Debug\netcoreapp3.1\01. Permutations without Repetition.deps.json
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\bin\Debug\netcoreapp3.1\01. Permutations without Repetition.runtimeconfig.json
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\bin\Debug\netcoreapp3.1\01. Permutations without Repetition.runtimeconfig.dev.json
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\bin\Debug\netcoreapp3.1\01. Permutations without Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\bin\Debug\netcoreapp3.1\01. Permutations without Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.AssemblyInfo.cs
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.dll
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.pdb
+C:\Users\User\source\repos\Combinatorial Problems\01. Permutations without Repetition\obj\Debug\netcoreapp3.1\01. Permutations without Repetition.genruntimeconfig.cache
