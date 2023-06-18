@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\bin\Debug\netcoreapp3.1\04. Cinema.exe
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\bin\Debug\netcoreapp3.1\04. Cinema.deps.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\bin\Debug\netcoreapp3.1\04. Cinema.runtimeconfig.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\bin\Debug\netcoreapp3.1\04. Cinema.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\bin\Debug\netcoreapp3.1\04. Cinema.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\bin\Debug\netcoreapp3.1\04. Cinema.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\04. Cinema\obj\Debug\netcoreapp3.1\04. Cinema.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qxdolwV0gBfN87jNfnCw/QNxpc8+j3vpU0up/itHqjRTrHwz3bVdCflmCm9nj0S20aYaJ2hNOTZ/KFDTDOF6IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Recursion and Combinatorial Problems - Exercise\\06. Word Cruncher\\06. Word Cruncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

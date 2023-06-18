@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\bin\Debug\netcoreapp3.1\01. Reverse Array.exe
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\bin\Debug\netcoreapp3.1\01. Reverse Array.deps.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\bin\Debug\netcoreapp3.1\01. Reverse Array.runtimeconfig.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\bin\Debug\netcoreapp3.1\01. Reverse Array.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\bin\Debug\netcoreapp3.1\01. Reverse Array.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\bin\Debug\netcoreapp3.1\01. Reverse Array.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\01. Reverse Array\obj\Debug\netcoreapp3.1\01. Reverse Array.genruntimeconfig.cache

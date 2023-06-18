@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\bin\Debug\netcoreapp3.1\05. School Teams.exe
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\bin\Debug\netcoreapp3.1\05. School Teams.deps.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\bin\Debug\netcoreapp3.1\05. School Teams.runtimeconfig.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\bin\Debug\netcoreapp3.1\05. School Teams.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\bin\Debug\netcoreapp3.1\05. School Teams.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\bin\Debug\netcoreapp3.1\05. School Teams.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\05. School Teams\obj\Debug\netcoreapp3.1\05. School Teams.genruntimeconfig.cache

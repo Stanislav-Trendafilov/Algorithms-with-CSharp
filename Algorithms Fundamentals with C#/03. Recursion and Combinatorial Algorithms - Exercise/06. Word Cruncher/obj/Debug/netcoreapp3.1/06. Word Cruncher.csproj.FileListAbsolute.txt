@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\bin\Debug\netcoreapp3.1\06. Word Cruncher.exe
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\bin\Debug\netcoreapp3.1\06. Word Cruncher.deps.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\bin\Debug\netcoreapp3.1\06. Word Cruncher.runtimeconfig.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\bin\Debug\netcoreapp3.1\06. Word Cruncher.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\bin\Debug\netcoreapp3.1\06. Word Cruncher.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\bin\Debug\netcoreapp3.1\06. Word Cruncher.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.dll
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.pdb
+C:\Users\User\source\repos\Recursion and Combinatorial Problems - Exercise\06. Word Cruncher\obj\Debug\netcoreapp3.1\06. Word Cruncher.genruntimeconfig.cache

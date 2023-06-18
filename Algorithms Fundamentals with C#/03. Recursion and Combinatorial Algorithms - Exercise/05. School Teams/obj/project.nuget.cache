@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "exS9Cx3n2A7AMCVLEGHkm0wuzdK90AFt2erogwfUapsK4202wdsbDrEgDomo1paC+3bgtFw2iaPzhJz7hUpRUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Recursion and Combinatorial Problems - Exercise\\05. School Teams\\05. School Teams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
