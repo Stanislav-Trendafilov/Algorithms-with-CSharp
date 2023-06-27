@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.exe
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.deps.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.runtimeconfig.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.runtimeconfig.dev.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.dll
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.pdb
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.AssemblyInfo.cs
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.dll
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.pdb
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.genruntimeconfig.cache

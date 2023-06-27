@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\bin\Debug\netcoreapp3.1\06. Merge Sort.exe
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\bin\Debug\netcoreapp3.1\06. Merge Sort.deps.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\bin\Debug\netcoreapp3.1\06. Merge Sort.runtimeconfig.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\bin\Debug\netcoreapp3.1\06. Merge Sort.runtimeconfig.dev.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\bin\Debug\netcoreapp3.1\06. Merge Sort.dll
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\bin\Debug\netcoreapp3.1\06. Merge Sort.pdb
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.AssemblyInfo.cs
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.dll
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.pdb
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\06. Merge Sort\obj\Debug\netcoreapp3.1\06. Merge Sort.genruntimeconfig.cache

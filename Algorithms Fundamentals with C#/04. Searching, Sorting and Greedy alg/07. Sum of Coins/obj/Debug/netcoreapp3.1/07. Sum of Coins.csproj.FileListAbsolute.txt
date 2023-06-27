@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\bin\Debug\netcoreapp3.1\07. Sum of Coins.exe
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\bin\Debug\netcoreapp3.1\07. Sum of Coins.deps.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\bin\Debug\netcoreapp3.1\07. Sum of Coins.runtimeconfig.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\bin\Debug\netcoreapp3.1\07. Sum of Coins.runtimeconfig.dev.json
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\bin\Debug\netcoreapp3.1\07. Sum of Coins.dll
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\bin\Debug\netcoreapp3.1\07. Sum of Coins.pdb
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.AssemblyInfo.cs
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.dll
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.pdb
+C:\Users\User\source\repos\Searching, Sorting and Greedy Alg\07. Sum of Coins\obj\Debug\netcoreapp3.1\07. Sum of Coins.genruntimeconfig.cache
