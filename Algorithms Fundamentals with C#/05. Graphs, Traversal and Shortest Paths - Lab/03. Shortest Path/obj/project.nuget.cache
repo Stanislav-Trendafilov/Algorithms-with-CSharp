@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iH1oLSeExq3CkHePWZx1gZ/svXneB7zggC8YamcL5fxl1DdgSUjgOUpJY+3XgsgOHy2IJZ7+GFEtyhA5jxrTkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Graph, Traversal, Shortest Paths - Lab\\03. Shortest Path\\03. Shortest Path.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

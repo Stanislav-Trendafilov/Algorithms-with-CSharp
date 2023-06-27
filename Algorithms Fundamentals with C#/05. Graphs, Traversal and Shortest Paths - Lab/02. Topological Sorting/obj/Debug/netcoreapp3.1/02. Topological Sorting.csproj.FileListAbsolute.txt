@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\bin\Debug\netcoreapp3.1\02. Topological Sorting.exe
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\bin\Debug\netcoreapp3.1\02. Topological Sorting.deps.json
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\bin\Debug\netcoreapp3.1\02. Topological Sorting.runtimeconfig.json
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\bin\Debug\netcoreapp3.1\02. Topological Sorting.runtimeconfig.dev.json
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\bin\Debug\netcoreapp3.1\02. Topological Sorting.dll
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\bin\Debug\netcoreapp3.1\02. Topological Sorting.pdb
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.AssemblyInfo.cs
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.dll
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.pdb
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\02. Topological Sorting\obj\Debug\netcoreapp3.1\02. Topological Sorting.genruntimeconfig.cache

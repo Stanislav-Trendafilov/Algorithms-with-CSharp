@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\bin\Debug\netcoreapp3.1\03. Shortest Path.exe
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\bin\Debug\netcoreapp3.1\03. Shortest Path.deps.json
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\bin\Debug\netcoreapp3.1\03. Shortest Path.runtimeconfig.json
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\bin\Debug\netcoreapp3.1\03. Shortest Path.runtimeconfig.dev.json
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\bin\Debug\netcoreapp3.1\03. Shortest Path.dll
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\bin\Debug\netcoreapp3.1\03. Shortest Path.pdb
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.AssemblyInfo.cs
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.dll
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.pdb
+C:\Users\User\source\repos\Graph, Traversal, Shortest Paths - Lab\03. Shortest Path\obj\Debug\netcoreapp3.1\03. Shortest Path.genruntimeconfig.cache
