@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\bin\Debug\netcoreapp3.1\02. Areas in Matrix.exe
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\bin\Debug\netcoreapp3.1\02. Areas in Matrix.deps.json
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\bin\Debug\netcoreapp3.1\02. Areas in Matrix.runtimeconfig.json
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\bin\Debug\netcoreapp3.1\02. Areas in Matrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\bin\Debug\netcoreapp3.1\02. Areas in Matrix.dll
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\bin\Debug\netcoreapp3.1\02. Areas in Matrix.pdb
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.AssemblyInfo.cs
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.dll
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.pdb
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\02. Areas in Matrix\obj\Debug\netcoreapp3.1\02. Areas in Matrix.genruntimeconfig.cache

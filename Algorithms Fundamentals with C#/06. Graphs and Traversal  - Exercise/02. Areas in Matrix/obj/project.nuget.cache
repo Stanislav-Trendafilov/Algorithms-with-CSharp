@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3FVfI3OD7K0le1rNkk1/0opshOXaro86OfYgQmaxJoM9EfoGEw9FPwTkrJ3R7ZuGp2CSuBMEqGW6z1njEl2FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Graphs, Traversal and Shortest Paths - Exercise\\02. Areas in Matrix\\02. Areas in Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

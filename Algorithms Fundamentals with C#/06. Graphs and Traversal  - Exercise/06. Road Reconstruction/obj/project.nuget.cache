@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsOQKqog141gG1s7Pwj0rj8MlnXwYcw+ap4j0y1sL++ZwKsGET2wHnXAQTtqb97cLHDZisGJopLgo/+Cz/Wh6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Graphs, Traversal and Shortest Paths - Exercise\\06. Road Reconstruction\\06. Road Reconstruction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

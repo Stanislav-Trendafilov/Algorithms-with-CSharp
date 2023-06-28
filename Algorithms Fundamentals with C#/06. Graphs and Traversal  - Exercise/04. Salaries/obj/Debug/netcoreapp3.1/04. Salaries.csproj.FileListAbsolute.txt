@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\bin\Debug\netcoreapp3.1\04. Salaries.exe
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\bin\Debug\netcoreapp3.1\04. Salaries.deps.json
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\bin\Debug\netcoreapp3.1\04. Salaries.runtimeconfig.json
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\bin\Debug\netcoreapp3.1\04. Salaries.runtimeconfig.dev.json
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\bin\Debug\netcoreapp3.1\04. Salaries.dll
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\bin\Debug\netcoreapp3.1\04. Salaries.pdb
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.AssemblyInfo.cs
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.dll
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.pdb
+C:\Users\User\source\repos\Graphs, Traversal and Shortest Paths - Exercise\04. Salaries\obj\Debug\netcoreapp3.1\04. Salaries.genruntimeconfig.cache
