@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\bin\Debug\netcoreapp3.1\03. Longest Com Sub.exe
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\bin\Debug\netcoreapp3.1\03. Longest Com Sub.deps.json
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\bin\Debug\netcoreapp3.1\03. Longest Com Sub.runtimeconfig.json
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\bin\Debug\netcoreapp3.1\03. Longest Com Sub.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\bin\Debug\netcoreapp3.1\03. Longest Com Sub.dll
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\bin\Debug\netcoreapp3.1\03. Longest Com Sub.pdb
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.AssemblyInfo.cs
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.dll
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.pdb
+C:\Users\User\source\repos\Dynamic Programming - Lab\03. Longest Com Sub\obj\Debug\netcoreapp3.1\03. Longest Com Sub.genruntimeconfig.cache

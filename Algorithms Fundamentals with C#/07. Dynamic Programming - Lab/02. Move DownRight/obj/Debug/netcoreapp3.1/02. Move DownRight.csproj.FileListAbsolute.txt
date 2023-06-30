@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\bin\Debug\netcoreapp3.1\02. Move DownRight.exe
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\bin\Debug\netcoreapp3.1\02. Move DownRight.deps.json
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\bin\Debug\netcoreapp3.1\02. Move DownRight.runtimeconfig.json
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\bin\Debug\netcoreapp3.1\02. Move DownRight.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\bin\Debug\netcoreapp3.1\02. Move DownRight.dll
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\bin\Debug\netcoreapp3.1\02. Move DownRight.pdb
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.AssemblyInfo.cs
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.dll
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.pdb
+C:\Users\User\source\repos\Dynamic Programming - Lab\02. Move DownRight\obj\Debug\netcoreapp3.1\02. Move DownRight.genruntimeconfig.cache
